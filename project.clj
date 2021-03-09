@@ -1,4 +1,4 @@
-(defproject tech.ardour/utensil "0.0.1"
+(defproject tech.ardour/utensil "0.1.0"
   :description "Ardour Tech Utilities and Helpers"
   :url "https://github.com/ArdourTech/utensil"
   :license {:name         "Eclipse Public License - v 1.0"
