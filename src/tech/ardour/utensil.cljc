@@ -1,4 +1,5 @@
 (ns tech.ardour.utensil
+  (:refer-clojure :exclude [uuid])
   #?(:clj
      (:import
        (java.util UUID)
